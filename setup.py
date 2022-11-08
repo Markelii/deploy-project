@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='test_deploy_project',
-    version='1.0.2',
+    version='1.1.1',
     license='MIT',
     author="Mark",
     author_email='email@example.com',
