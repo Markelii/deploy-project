@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='test-deploy-project',
-    version='1.0.0',
+    name='test_deploy_project',
+    version='1.0.1',
     license='MIT',
     author="Mark",
     author_email='email@example.com',
