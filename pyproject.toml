@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 
 [project]
-name = "example_package_deploy_pypi"
+name = "exampledeploy_project"
 version = "0.0.1"
 authors = [
   { name="Mark", email="author@example.com" },
