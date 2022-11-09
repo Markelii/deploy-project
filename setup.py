@@ -8,7 +8,7 @@ setup(
     author="Mark",
     author_email='email@example.com',
     packages=find_packages('example_package_mark_dot'),
-    package_dir={'': 'src'},
+    package_dir={'': 'example_package_mark_dot'},
     url='https://github.com/Markelii/deploy-project',
     keywords='example project',
     install_requires=[
